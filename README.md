@@ -1,3 +1,3 @@
 # README
 
-Tepo for the Finance Tracker App"# finance-tracker" 
+This is for the Finance Tracker App"# finance-tracker" 
