@@ -1,4 +1,4 @@
 class UsersController < ApplicationController
-  def my_portofolio
+  def my_portfolio
   end
 end
